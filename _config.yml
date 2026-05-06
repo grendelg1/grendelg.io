@@ -7,14 +7,18 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Grendel Gardiner's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Grendel Gardiner
+headline: About Me
 description: >- # dont remove this line. this will ignore all new lines until the next section
+  I am a Mechanical Engineer pursuing a Master's Degreee at the Georgia Institute of Technology
+  My interests lie in advanced robotic locomotion and manipulation and medical end effectors. 
+  My experience lies primarily in CAD, DFM, and Physics Simulation, and I have experience with
+  PCB design, FEA, PPO + ML,  
   Write an awesome intro and discuss your highlights and qualification. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
