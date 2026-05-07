@@ -15,13 +15,13 @@ title: Grendel Gardiner's Portfolio # This is what shows up in the tab of the br
 name: Grendel Gardiner
 headline: About Me
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I am a Mechanical Engineer pursuing a Master's Degreee at the Georgia Institute of Technology
-  My interests lie in advanced robotic locomotion and manipulation and medical end effectors. 
-  My experience lies primarily in CAD, DFM, and Physics Simulation, and I have experience with
-  PCB design, FEA, PPO + ML,  
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a Mechanical Engineer pursuing a Master’s degree at the Georgia Institute of Technology with
+  interests in robotic locomotion, manipulation, and physically intelligent robotic systems. I am
+  particularly interested in developing robots that leverage environmental interaction, compliance, and
+  mechanical design to perform complex tasks in constrained and unstructured environments. My experience 
+  combines mechanical design, embedded systems, and simulation-driven robotics, including CAD, finite 
+  element analysis, reinforcement learning workflows, and robotic system integration. I am especially 
+  interested in tendon-driven mechanisms, adaptive manipulation, and simulation-to-real robotic systems.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
