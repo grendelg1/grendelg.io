@@ -2,7 +2,9 @@
 layout: post
 title: Semi-autonomous Light Observational Tree Hugger (SLOTH)
 description: 
-    Developing the SLOTH involved designing a quadruped with compliant micropsine feet to latch onto tree bark to manuerver up a tree, PPO learning to refine a crawl gait, and integrating CV and a MPU 6050 to detect bark diseases and record the elevation where detection occued.
+    Developing the SLOTH involved designing a quadruped with compliant micropsine feet to latch 
+    onto tree bark to manuerver up a tree, PPO learning to refine a crawl gait, and integrating 
+    CV and a MPU 6050 to detect bark diseases and record the elevation where detection occued.
 skills: 
   - Load Analysis
   - Micro-spine Gripper Design
