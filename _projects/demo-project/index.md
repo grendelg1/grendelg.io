@@ -14,7 +14,7 @@ skills:
   - SLS and FDM
   - Sim to Real 
 
-main-image: /project2.jpg
+main-image: /OnTree.jpg
 ---
 
 ---
