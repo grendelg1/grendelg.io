@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Semi-autonomous Light Observational Tree Hugger (SLOTH)
+description: 
+    Developing the SLOTH involved designing a quadruped with compliant micropsine feet to latch onto tree bark to manuerver up a tree, PPO learning to refine a crawl gait, and integrating CV and a MPU 6050 to detect bark diseases and record the elevation where detection occued.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Load Analysis
+  - Micro-spine Gripper Design
+  - PPO Policy Integration for RL
+  - Computer Vision
+  - Compliant Joint Design
+  - SLS and FDM
+  - Sim to Real 
 
 main-image: /project2.jpg
 ---
